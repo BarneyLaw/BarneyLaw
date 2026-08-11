@@ -13,7 +13,7 @@ Currently doing IT/OT engineering at Roche as an intern, where "it works on my m
 
 - **[Warframe Relic Overlay](https://github.com/BarneyLaw/WarframeRelicOverlay)**: C#/WPF desktop overlay. Event-driven state machine, pooled parallel Tesseract OCR, fuzzy matching against a TTL-cached market API. ~286 xUnit tests, because OCR lies.
 - **[homelab](https://docs.packetcraft.dev)**: 3-node K3s cluster on secondhand mini-PCs. ArgoCD, Prometheus, Grafana. Everything I deploy goes here first, including my own site.
-- **[packetcraft.dev](https://packetcraft.dev)**: Astro based portfolio site, with a planned Go backend, shipped to the cluster above via GitHub Actions and ArgoCD. The pipeline is the interesting part.
+- **[PacketCraft](https://site.packetcraft.dev)**: Astro based portfolio site, with a planned Go backend, shipped to the cluster above via GitHub Actions and ArgoCD. The pipeline is the interesting part.
 
 ### Stack
 
