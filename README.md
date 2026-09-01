@@ -29,14 +29,10 @@ Currently doing IT/OT engineering at Roche as an intern, where "it works on my m
 -->
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=BarneyLaw&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&hide_title=true"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=BarneyLaw&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=graywhite&hide_title=true"
-    alt="GitHub stats: commits, pull requests, and issues"
-  />
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://barneylaw.github.io/github-stats/stats-github_dark.svg" />
+  <img src="https://barneylaw.github.io/github-stats/stats-graywhite.svg"
+       alt="GitHub stats" />
 </picture>
 
 ---
