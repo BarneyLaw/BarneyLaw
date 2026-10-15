@@ -5,7 +5,7 @@
   Replace every <USERNAME> below before pushing.
 -->
 
-Computer Science at NUS. I spend most of my time on the layer below the product: Linux, Kubernetes, CI, and the unglamorous glue that keeps things running at 3am.
+I am a Computer Science student at NUS. I spend most of my time on the layer below the product: Linux, Kubernetes, CI, and the unglamorous glue that keeps things running at 3am.
 
 Currently doing IT/OT engineering at Roche as an intern, where "it works on my machine" is not a valid qualification argument and everything has to survive an audit trail. Turns out that is decent training for infrastructure work, especially the unglamorous parts.
 
