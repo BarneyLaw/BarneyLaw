@@ -1,4 +1,4 @@
-## Hi there I'm Leifsen 👋
+## Hi there!
 <!--
   Profile README for github.com/<USERNAME>
   Save this as README.md in a repo named exactly <USERNAME>.
