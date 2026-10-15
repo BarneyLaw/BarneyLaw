@@ -9,6 +9,10 @@ Computer Science at NUS. I spend most of my time on the layer below the product:
 
 Currently doing IT/OT engineering at Roche as an intern, where "it works on my machine" is not a valid qualification argument and everything has to survive an audit trail. Turns out that is decent training for infrastructure work, especially the unglamorous parts.
 
+Check out my personal site here: **[packetcraft.dev](https://site.packetcraft.dev/)**
+
+and the documentation for my compute cluster: **[docs.packetcraft.dev](https://docs.packetcraft.dev/)**
+
 ### Currently
 
 - **[Warframe Relic Overlay](https://github.com/BarneyLaw/WarframeRelicOverlay)**: C#/WPF desktop overlay. Event-driven state machine, pooled parallel Tesseract OCR, fuzzy matching against a TTL-cached market API. ~286 xUnit tests, because OCR lies.
